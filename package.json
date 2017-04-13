@@ -1,0 +1,17 @@
+{
+  "name": "mocha-runner",
+  "version": "1.0.0",
+  "description": "mocha test runner",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mocha": "mocha"
+  },
+  "author": "Igor Mykhaylyuk",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "3.2.0"
+  }
+}
